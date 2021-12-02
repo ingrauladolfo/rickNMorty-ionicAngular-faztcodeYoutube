@@ -1,0 +1,8 @@
+{
+  "name": "rick-and-morty-api",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "3b9655fd"
+}
